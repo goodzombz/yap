@@ -1,1 +1,3 @@
+local result = get("result")
+
 
