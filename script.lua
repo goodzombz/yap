@@ -4,7 +4,7 @@ local button = get("done-3")
 local num = 20
 
 button.on-click(function()
-  result.set_content("lower")
+    result.set_content("lower")
   --if text.get_content() > num then
       --result.set_content("lower")
   --end
