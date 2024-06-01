@@ -5,10 +5,4 @@ local num = 20
 
 button.on_click(function()
     result.set_content("lower")
-  --if text.get_content() > num then
-      --result.set_content("lower")
-  --end
-  --if text.get_content() < num then
-      --result.set_content("higher")
-  --end
 end)
