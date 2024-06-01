@@ -6,8 +6,8 @@ local num = 20
 button.on-click(function()
   if text.get_content() > num then
       result.set_content("lower")
-    end
+  end
   if text.get_content() < num then
       result.set_content("higher")
-    end
+  end
 end)
