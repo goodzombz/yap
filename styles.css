@@ -5,6 +5,18 @@ body {
   padding: 20px;
 }
 
+h1 {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+p {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+
 /* Input and Button styles */
 delete-input-key {
   border: 1px solid #ccc;
