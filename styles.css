@@ -5,15 +5,6 @@ body {
   padding: 20px;
 }
 
-h1 {
-  font-size: 2em;
-  margin-bottom: 10px;
-}
-
-p {
-  margin-bottom: 10px;
-}
-
 /* Input and Button styles */
 delete-input-key {
   border: 1px solid #ccc;
@@ -25,7 +16,7 @@ delete-input-key {
   display: block;
 }
 
-button, .button2 {
+button, button2 {
   background-color: #4CAF50; /* Green */
   border: none;
   color: white;
@@ -39,7 +30,7 @@ button, .button2 {
   border-radius: 5px;
 }
 
-button:hover, .button2:hover {
+button:hover, button2:hover {
   opacity: 0.8;
 }
 
