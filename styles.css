@@ -1,0 +1,57 @@
+/* General styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+p {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+/* Input and Button styles */
+delete-input-key {
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 150px;
+  margin: 0 auto;
+  display: block;
+}
+
+button, .button2 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover, .button2:hover {
+  opacity: 0.8;
+}
+
+button2 {
+  background-color: #FF0000; /* Red */
+}
+
+/* Result paragraph styling */
+result {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
