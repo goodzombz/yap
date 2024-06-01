@@ -13,5 +13,5 @@ end)
 
 button2.on_click(function()
     num = math.random(100)
-    fjs.set_content("")
+    --fjs.set_content("")
 end)
