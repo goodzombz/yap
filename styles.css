@@ -15,6 +15,13 @@ p {
   text-align: center;
   margin-bottom: 10px;
 }
+introduction {
+    direction: column;
+    align-items: center;
+
+    gap: 10;
+    margin-bottom: 40px;
+}
 
 /* Input and Button styles */
 delete-input-key {
